@@ -1,5 +1,5 @@
 # MAX6675 K-Thermocouple Library for RP2040
-
+A C++ Libary for the RP2040/Raspberry Pi Pico
 ## 1. Importing the library
 * Clone this project into your pico project
 * Add this to your CMakeLists.txt
